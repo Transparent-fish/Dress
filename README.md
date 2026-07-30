@@ -37,12 +37,12 @@ This simple repository requires no contribution of code, so that you can partici
 
 ## Star 历史 / Star History
 
-<a href="https://star-history.com/#Cute-Dress/Dress&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Cute-Dress/Dress&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Cute-Dress/Dress&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Cute-Dress/Dress&type=Timeline" />
-  </picture>
+<a href="https://www.star-history.com/?repos=Cute-Dress%2FDress&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Cute-Dress/Dress&type=timeline&theme=dark&legend=top-left&sealed_token=CNkdt25CkYvOdjuZhS6j1CU6BhBEVe0UOhIwE_sAzjikqDiwU3fyTEVhS-PWt7ZVgYm4V-55PfDaj-rxEDYDp6AiSNVfmw3iakUnsgrY8RfbjzvKgwbuCA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Cute-Dress/Dress&type=timeline&legend=top-left&sealed_token=CNkdt25CkYvOdjuZhS6j1CU6BhBEVe0UOhIwE_sAzjikqDiwU3fyTEVhS-PWt7ZVgYm4V-55PfDaj-rxEDYDp6AiSNVfmw3iakUnsgrY8RfbjzvKgwbuCA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Cute-Dress/Dress&type=timeline&legend=top-left&sealed_token=CNkdt25CkYvOdjuZhS6j1CU6BhBEVe0UOhIwE_sAzjikqDiwU3fyTEVhS-PWt7ZVgYm4V-55PfDaj-rxEDYDp6AiSNVfmw3iakUnsgrY8RfbjzvKgwbuCA" />
+ </picture>
 </a>
 
 ### 在线预览 / Online Demo
